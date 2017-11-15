@@ -1,2 +1,3 @@
 # Instagram-Clone
-Displays Instagram feed.
+
+Utilizes Instagram API and Flickr API.  Displays Instagram Feed and allows user to search for images from Flickr.  
